@@ -1,7 +1,7 @@
 To jest tekst z błędami.
 Będę testował gita.
 
-usemka
+ósemka
 żeka
 rzaba
 monka
