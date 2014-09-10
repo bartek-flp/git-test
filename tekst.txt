@@ -1,4 +1,4 @@
-To jest tekst z buendami.
+To jest tekst z błędami.
 Bende testował gita.
 
 usemka
